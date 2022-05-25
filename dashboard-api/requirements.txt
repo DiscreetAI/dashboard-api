@@ -4,7 +4,7 @@ itsdangerous==0.24
 Jinja2==2.9.6
 MarkupSafe==1.0
 Werkzeug==0.12.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 boto3==1.9.145
 simplejson==3.16.0
 requests==2.21.0
