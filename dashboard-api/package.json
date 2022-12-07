@@ -18,6 +18,6 @@
     "serverless-wsgi": "^1.3.0"
   },
   "dependencies": {
-    "serverless": "^1.54.0"
+    "serverless": "^3.25.1"
   }
 }
